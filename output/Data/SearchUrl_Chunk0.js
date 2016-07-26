@@ -1,0 +1,1 @@
+define({"../Embeddedhelp/embedded-home.htm":0,});

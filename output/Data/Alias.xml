@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="account-summary" Link="Embeddedhelp/AccountSummary.htm" ResolvedId="1000" />
+    <Map Name="amend-payment" Link="Embeddedhelp/AmendPayment.htm" ResolvedId="1005" />
+    <Map Name="amend-receipt" Link="Embeddedhelp/AmendReceipt.htm" ResolvedId="1010" />
+    <Map Name="amend-receipt-or-payment" Link="Embeddedhelp/AmendReceiptOrPayment.htm" ResolvedId="1015" />
+    <Map Name="bank-history" Link="Embeddedhelp/BankHistory.htm" ResolvedId="1020" />
+    <Map Name="cancel-receipt-or-payment" Link="Embeddedhelp/CancelReceiptOrPayment.htm" ResolvedId="1025" />
+    <Map Name="cash-history" Link="Embeddedhelp/CashHistory.htm" ResolvedId="1030" />
+    <Map Name="claim-gift-aid-donations" Link="Embeddedhelp/ClaimGiftAidDonations.htm" ResolvedId="1035" />
+    <Map Name="claim-history" Link="Embeddedhelp/ClaimHistory.htm" ResolvedId="1040" />
+    <Map Name="confirm-cancellation" Link="Embeddedhelp/ConfirmCancellation.htm" ResolvedId="1045" />
+    <Map Name="dashboard" Link="Embeddedhelp/Dashboard.htm" ResolvedId="1050" />
+    <Map Name="create-receipt" Link="Embeddedhelp/EnterReceipt.htm" ResolvedId="1055" />
+    <Map Name="import-epayments" Link="Embeddedhelp/ImportePayments.htm" ResolvedId="1060" />
+    <Map Name="journal-reports" Link="Embeddedhelp/JournalReports.htm" ResolvedId="1065" />
+    <Map Name="list-account-transfers" Link="Embeddedhelp/ListAccountTransfers.htm" ResolvedId="1070" />
+    <Map Name="list-of-cancellations" Link="Embeddedhelp/ListOfCancellations.htm" ResolvedId="1075" />
+    <Map Name="list-payments-by-cheque-or-voucher" Link="Embeddedhelp/ListPaymentsByChequeOrVoucher.htm" ResolvedId="1080" />
+    <Map Name="list-receipts-by-receipt" Link="Embeddedhelp/ListReceiptsByReceipt.htm" ResolvedId="1085" />
+    <Map Name="list-reconciled-bank-accounts" Link="Embeddedhelp/ListReconciledBankAccounts.htm" ResolvedId="1090" />
+    <Map Name="transfers-between-names" Link="Embeddedhelp/ListTransfersBetweenNames.htm" ResolvedId="1100" />
+    <Map Name="ledger-codes" Link="Embeddedhelp/ManageLedgerCodes.htm" ResolvedId="1105" />
+    <Map Name="create-payment" Link="Embeddedhelp/RecordPayment.htm" ResolvedId="1110" />
+    <Map Name="new-claim-for-donations" Link="Embeddedhelp/NewClaimForDonations.htm" ResolvedId="1115" />
+    <Map Name="search-account-balances" Link="Embeddedhelp/SearchAccountBalances.htm" ResolvedId="1120" />
+    <Map Name="search-transactions" Link="Embeddedhelp/SearchTransactions.htm" ResolvedId="1125" />
+    <Map Name="set-ledger-codes" Link="Embeddedhelp/SetLedgerCodes.htm" ResolvedId="1130" />
+    <Map Name="set-VAT-status" Link="Embeddedhelp/SetVATStatus.htm" ResolvedId="1135" />
+    <Map Name="split-payment" Link="Embeddedhelp/SplitPayment.htm" ResolvedId="1140" />
+    <Map Name="split-receipt" Link="Embeddedhelp/SplitReceipt.htm" ResolvedId="1145" />
+    <Map Name="transfer-between-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1150" />
+    <Map Name="transfer-between-bank-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1155" />
+    <Map Name="transfer-between-names" Link="Embeddedhelp/TransferBetweenNames.htm" ResolvedId="1160" />
+    <Map Name="update-ledger-code" Link="Embeddedhelp/UpdateLedgerCode.htm" ResolvedId="1165" />
+    <Map Name="view-statement" Link="Embeddedhelp/ViewStatement.htm" ResolvedId="1170" />
+    <Map Name="view-transactions" Link="Embeddedhelp/ViewTransactions.htm" ResolvedId="1175" />
+    <Map Name="who-has-not-paid" Link="Embeddedhelp/WhoHasNotPaid.htm" ResolvedId="1180" />
+    <Map Name="new-paying-in-slip" Link="Embeddedhelp/NewPayingInSlip.htm" ResolvedId="1185" />
+    <Map Name="draw-cheque-for-cash" Link="Embeddedhelp/DrawChequeForCash.htm" ResolvedId="1190" />
+    <Map Name="reconcile-bank-account" Link="Embeddedhelp/ReconcileBankStatement1.htm" ResolvedId="1195" />
+    <Map Name="reconcile-bank-statement" Link="Embeddedhelp/ReconcileBankStatement2.htm" ResolvedId="1200" />
+    <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1215" />
+    <Map Name="selected-transaction" Link="Embeddedhelp/SelectedTransaction.htm" ResolvedId="1210" />
+    <Map Name="cancel-amend-bank-transaction" Link="Embeddedhelp/CancelAmendBankTransaction.htm" ResolvedId="1205" />
+</CatapultAliasFile>
