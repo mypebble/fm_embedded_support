@@ -44,5 +44,11 @@ xmlAliasData += '    <Map Name=\"reconcile-bank-statement\" Link=\"Embeddedhelp/
 xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1215\" />';
 xmlAliasData += '    <Map Name=\"selected-transaction\" Link=\"Embeddedhelp/SelectedTransaction.htm\" ResolvedId=\"1210\" />';
 xmlAliasData += '    <Map Name=\"cancel-amend-bank-transaction\" Link=\"Embeddedhelp/CancelAmendBankTransaction.htm\" ResolvedId=\"1205\" />';
+xmlAliasData += '    <Map Name=\"unreconcile-bank-account\" Link=\"Embeddedhelp/UnreconcileBankAccount.htm\" ResolvedId=\"1220\" />';
+xmlAliasData += '    <Map Name=\"unreconcile-bank-statement\" Link=\"Embeddedhelp/UnreconcileBankStatement.htm\" ResolvedId=\"1225\" />';
+xmlAliasData += '    <Map Name=\"VAT\" Link=\"Embeddedhelp/GenerateVAT100.htm\" ResolvedId=\"1235\" />';
+xmlAliasData += '    <Map Name=\"VAT100\" Link=\"Embeddedhelp/VAT100.htm\" ResolvedId=\"1240\" />';
+xmlAliasData += '    <Map Name=\"list-cancelled-bank-transactions\" Link=\"Embeddedhelp/ListCancelledBankTransactions.htm\" ResolvedId=\"1230\" />';
+xmlAliasData += '    <Map Name=\"VAT100-history\" Link=\"Embeddedhelp/VAT100History.htm\" ResolvedId=\"1245\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
