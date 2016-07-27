@@ -49,4 +49,48 @@
     <Map Name="VAT100" Link="Embeddedhelp/VAT100.htm" ResolvedId="1240" />
     <Map Name="list-cancelled-bank-transactions" Link="Embeddedhelp/ListCancelledBankTransactions.htm" ResolvedId="1230" />
     <Map Name="VAT100-history" Link="Embeddedhelp/VAT100History.htm" ResolvedId="1245" />
+    <Map Name="record-taken-items" Link="Embeddedhelp/RecordTakenItems.htm" ResolvedId="1250" />
+    <Map Name="name-summary" Link="Embeddedhelp/NameSummary.htm" ResolvedId="1260" />
+    <Map Name="statement" Link="Embeddedhelp/Statement.htm" ResolvedId="1265" />
+    <Map Name="taken-items" Link="Embeddedhelp/TakenItems.htm" ResolvedId="1255" />
+    <Map Name="universal-free-school-meals" Link="Embeddedhelp/UniversalFreeSchoolMeals.htm" ResolvedId="1270" />
+    <Map Name="register-account-summary" Link="Embeddedhelp/RegisterAccountSummary.htm" ResolvedId="1272" />
+    <Map Name="upload-register-file" Link="Embeddedhelp/UploadRegisterFile.htm" ResolvedId="1275" />
+    <Map Name="send-text-message" Link="Embeddedhelp/SendTextMessage.htm" ResolvedId="1280" />
+    <Map Name="history-and-billing" Link="Embeddedhelp/HistoryAndBilling.htm" ResolvedId="1285" />
+    <Map Name="view-offers" Link="Embeddedhelp/ViewOffers.htm" ResolvedId="1290" />
+    <Map Name="push-new-offer" Link="Embeddedhelp/PushNewOffer.htm" ResolvedId="1295" />
+    <Map Name="import-squid-sales" Link="Embeddedhelp/ImportsQuidSales.htm" ResolvedId="1300" />
+    <Map Name="register-pupils" Link="Embeddedhelp/RegisterPupils.htm" ResolvedId="1305" />
+    <Map Name="register-names-with-squid" Link="Embeddedhelp/RegisterNamesWithsQuid.htm" ResolvedId="1310" />
+    <Map Name="view-registered-names" Link="Embeddedhelp/ViewRegisteredNames.htm" ResolvedId="1315" />
+    <Map Name="manual-registration" Link="Embeddedhelp/ManualRegistration.htm" ResolvedId="1320" />
+    <Map Name="configure-squid" Link="Embeddedhelp/ConfiguresQuid.htm" ResolvedId="1325" />
+    <Map Name="manage-names" Link="Embeddedhelp/ManageNames.htm" ResolvedId="1330" />
+    <Map Name="manage-phone-numbers" Link="Embeddedhelp/ManagePhoneNumbers.htm" ResolvedId="1335" />
+    <Map Name="manage-gift-aid-donors" Link="Embeddedhelp/ManageGiftAidDonors.htm" ResolvedId="1340" />
+    <Map Name="update-names" Link="Embeddedhelp/UpdateNames.htm" ResolvedId="1345" />
+    <Map Name="create-new-pupil" Link="Embeddedhelp/CreateNewPupil.htm" ResolvedId="1350" />
+    <Map Name="create-new-organisation" Link="Embeddedhelp/CreateNewOrganisation.htm" ResolvedId="1435" />
+    <Map Name="manage-accounts" Link="Embeddedhelp/ManageAccounts.htm" ResolvedId="1360" />
+    <Map Name="create-account" Link="Embeddedhelp/CreateAccount.htm" ResolvedId="1365" />
+    <Map Name="update-account" Link="Embeddedhelp/UpdateAccount.htm" ResolvedId="1370" />
+    <Map Name="manage-bank-accounts" Link="Embeddedhelp/ManageBankAccounts.htm" ResolvedId="1375" />
+    <Map Name="create-bank-account" Link="Embeddedhelp/CreateBankAccount.htm" ResolvedId="1380" />
+    <Map Name="update-bank-account" Link="Embeddedhelp/UpdateBankAccount.htm" ResolvedId="1385" />
+    <Map Name="organisation-dashboard" Link="Embeddedhelp/OrganisationDashboard.htm" ResolvedId="1425" />
+    <Map Name="new-ledger-code" Link="Embeddedhelp/NewLedgerCode.htm" ResolvedId="1390" />
+    <Map Name="new-bank-ledger-code" Link="Embeddedhelp/NewBankLedgerCode.htm" ResolvedId="1395" />
+    <Map Name="amend-opening-balances" Link="Embeddedhelp/AmendOpeningBalance.htm" ResolvedId="1410" />
+    <Map Name="view-opening-balances" Link="Embeddedhelp/ViewOpeningBalances.htm" ResolvedId="1405" />
+    <Map Name="period-end-closedown" Link="Embeddedhelp/PeriodEndClosedown.htm" ResolvedId="1415" />
+    <Map Name="manage-organisations" Link="Embeddedhelp/ManageOrganisations.htm" ResolvedId="1430" />
+    <Map Name="update-bank-ledger-code" Link="Embeddedhelp/UpdateBankLedgerCode.htm" ResolvedId="1400" />
+    <Map Name="period-summary-report" Link="Embeddedhelp/PeriodSummaryReport.htm" ResolvedId="1420" />
+    <Map Name="create-new-user" Link="Embeddedhelp/CreateNewUser.htm" ResolvedId="1455" />
+    <Map Name="update-organisation" Link="Embeddedhelp/UpdateOrganisation.htm" ResolvedId="1440" />
+    <Map Name="update-user" Link="Embeddedhelp/UpdateUser.htm" ResolvedId="1460" />
+    <Map Name="manage-misapp" Link="Embeddedhelp/ManageMISapp.htm" ResolvedId="1445" />
+    <Map Name="manage-users" Link="Embeddedhelp/ManageUsers.htm" ResolvedId="1450" />
+    <Map Name="import-legacy-dbf-files" Link="Embeddedhelp/ImportLegacyDBFFiles.htm" ResolvedId="1465" />
 </CatapultAliasFile>
