@@ -29,8 +29,90 @@
     </head>
     <body>
         <h4>Update Bank Ledger Code</h4>
-        <p>&#160;</p>
-        <p>Awaiting content ...</p>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />About the fields</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Code</a></span>
+                    <div class="MCDropDownBody dropDownBody">
+                        <p>The ledger code which is used to group transactions for a particular purpose or the bank ledger code which is used to match the bank in Fund Manager to the bank code in an external financial system.</p>
+                        <p>The code can be <a href="javascript:void(0);" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" alt="Closed" data-mc-alt2="Open">alphanumeric<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"></span>Numbers, letters or a mix of both.</span></a>, up to 20 characters. If you integrate with an external accounting package for reporting purposes,  set up the codes in Fund Manager that match the same codes in the external system you are integrating with. This ensures that the transaction appears in the external ledger that you want it to, making it easy for you to identify and track the transactions<MadCap:conditionalText data-mc-conditions="Snippets.BankLedgerCode"> or if a bank ledger code that the transactions are posted to the expected banks in both systems</MadCap:conditionalText>.</p>
+                    </div>
+                </div>
+                <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Name</a></span>
+                    <div class="MCDropDownBody dropDownBody">
+                        <p>The name of the code. </p>
+                        <p class="note" data-mc-autonum="Note: "><span class="autonumber"><span class="Emphasis">Note: </span></span>The <span class="Name">VAT</span>&#160;and <span class="Name">Cash in Hand</span> ledger codes are set up in Fund Manager by default and you can’t amend the name of these codes.</p>
+                    </div>
+                </div>
+                <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />In use</a></span>
+                    <div class="MCDropDownBody dropDownBody">
+                        <p>The <span class="Name">In use</span> flag only applies to ledger codes you have created yourself. It doesn’t apply to the <span class="Name">VAT</span>&#160;or <span class="Name">Cash in Hand</span> codes or to bank ledger codes.</p>
+                        <p>The flag indicates whether the ledger code is in use or not: selected, the code is in use; clear, it is not in use. If a code is not in use then you won’t be able to select it for transactions.</p>
+                    </div>
+                </div>
+                <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Bank account</a></span>
+                    <div class="MCDropDownBody dropDownBody">
+                        <p>The name of the bank account, selectable from the drop-down list of available bank accounts.</p>
+                        <p class="note" data-mc-autonum="Note: "><span class="autonumber"><span class="Emphasis">Note: </span></span>You can only select a bank account that has already been created using <span class="Name">Administration &gt;&#160;Manage Bank Accounts</span>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h4>How do I ...</h4>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Amend a ledger code</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <ol>
+                    <li value="1">Amend the existing <span class="Name">Code</span>.</li>
+                    <li value="2">Amend the existing <span class="Name">Name</span>.</li>
+                    <p class="note" data-mc-autonum="Note: "><span class="autonumber"><span class="Emphasis">Note: </span></span>You won’t be able to do this if you are amending the code for the default <span class="Name">VAT</span> or <span class="Name">Cash in Hand</span> ledger codes.</p>
+                    <li value="3">Select or clear the <span class="Name">In use</span> flag.</li>
+                    <li value="4">Click <span class="Name">Save</span>.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Amend a bank ledger code</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <ol>
+                    <li value="1">Amend the existing <span class="Name">Code</span>.</li>
+                    <li value="2">Select a different <span class="Name">Bank account</span>.</li>
+                    <li value="3">Click <span class="Name">Save</span>.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Create a  ledger code</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <ul>
+                    <li value="1">From <span class="Name">Administration &gt; Manage Ledger Codes</span>, select  <span class="Name">New Ledger Code</span> and follow the instructions on the <span class="Name">Update Ledger Code</span> screen.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Create a  bank ledger code</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <ul>
+                    <li value="1">From <span class="Name">Administration &gt; Manage Ledger Codes</span>, select  <span class="Name">New Bank Ledger Code</span> and follow the instructions on the <span class="Name">Update Ledger Code</span> screen.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Mark a ledger code in use</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <p>Marking a ledger code as in use means that you can use the ledger code and apply it to transactions.</p>
+                <p class="note" data-mc-autonum="Note: "><span class="autonumber"><span class="Emphasis">Note: </span></span>Marking a code in use or out of use does not apply to <span class="Name">Bank Ledger</span> codes.</p>
+                <ol>
+                    <li value="1">Select  the <span class="Name">In use</span> flag.</li>
+                    <li value="2">Click <span class="Name">Save</span>.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="MCDropDown MCDropDown_Open dropDown"><span class="MCDropDownHead dropDownHead"><a href="javascript:void(0);" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage"><img class="MCDropDown_Image_Icon" src="../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Mark a ledger code out of use</a></span>
+            <div class="MCDropDownBody dropDownBody">
+                <p>Marking a ledger code as out of use means that you can no longer use the ledger code and apply it to transactions.</p>
+                <p class="note" data-mc-autonum="Note: "><span class="autonumber"><span class="Emphasis">Note: </span></span>Marking a code in use or out of use does not apply to <span class="Name">Bank Ledger</span> codes.</p>
+                <ol>
+                    <li value="1">Clear the <span class="Name">In use</span> flag.</li>
+                    <li value="2">Click <span class="Name">Save</span>.</li>
+                    <p>You won’t be able to use the ledger code </p>
+                </ol>
+            </div>
+        </div>
         <h4>For more information ...</h4>
         <p>See <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank">Pebble Support.</a></p>
     </body>
