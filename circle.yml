@@ -7,3 +7,7 @@ deployment:
     branch: master
     commands:
       - ./send-to-s3.sh staging-embedded-fm
+  sync_production:
+    branch: release
+    commands:
+      - ./send-to-s3.sh production-embedded-fm
