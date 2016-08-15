@@ -62,7 +62,6 @@ xmlAliasData += '    <Map Name=\"history-and-billing\" Link=\"Embeddedhelp/Histo
 xmlAliasData += '    <Map Name=\"view-offers\" Link=\"Embeddedhelp/ViewOffers.htm\" ResolvedId=\"1290\" />';
 xmlAliasData += '    <Map Name=\"push-new-offer\" Link=\"Embeddedhelp/PushNewOffer.htm\" ResolvedId=\"1295\" />';
 xmlAliasData += '    <Map Name=\"import-squid-sales\" Link=\"Embeddedhelp/ImportsQuidSales.htm\" ResolvedId=\"1300\" />';
-xmlAliasData += '    <Map Name=\"register-pupils\" Link=\"Embeddedhelp/RegisterPupils.htm\" ResolvedId=\"1305\" />';
 xmlAliasData += '    <Map Name=\"register-names-with-squid\" Link=\"Embeddedhelp/RegisterNamesWithsQuid.htm\" ResolvedId=\"1310\" />';
 xmlAliasData += '    <Map Name=\"view-registered-names\" Link=\"Embeddedhelp/ViewRegisteredNames.htm\" ResolvedId=\"1315\" />';
 xmlAliasData += '    <Map Name=\"manual-registration\" Link=\"Embeddedhelp/ManualRegistration.htm\" ResolvedId=\"1320\" />';
@@ -94,5 +93,16 @@ xmlAliasData += '    <Map Name=\"update-user\" Link=\"Embeddedhelp/UpdateUser.ht
 xmlAliasData += '    <Map Name=\"manage-misapp\" Link=\"Embeddedhelp/ManageMISapp.htm\" ResolvedId=\"1445\" />';
 xmlAliasData += '    <Map Name=\"manage-users\" Link=\"Embeddedhelp/ManageUsers.htm\" ResolvedId=\"1450\" />';
 xmlAliasData += '    <Map Name=\"import-legacy-dbf-files\" Link=\"Embeddedhelp/ImportLegacyDBFFiles.htm\" ResolvedId=\"1465\" />';
+xmlAliasData += '    <Map Name=\"map-settlement-accounts\" Link=\"Embeddedhelp/MapSettlementAccounts.htm\" ResolvedId=\"1485\" />';
+xmlAliasData += '    <Map Name=\"upload-document\" Link=\"Embeddedhelp/UploadDocument.htm\" ResolvedId=\"1515\" />';
+xmlAliasData += '    <Map Name=\"authenticate\" Link=\"Embeddedhelp/Authenticate.htm\" ResolvedId=\"1495\" />';
+xmlAliasData += '    <Map Name=\"active-offers\" Link=\"Embeddedhelp/ActiveOffers.htm\" ResolvedId=\"1505\" />';
+xmlAliasData += '    <Map Name=\"map-accounts-payment-items\" Link=\"Embeddedhelp/MapAccountsPaymentItems.htm\" ResolvedId=\"1480\" />';
+xmlAliasData += '    <Map Name=\"map-names\" Link=\"Embeddedhelp/MapNames.htm\" ResolvedId=\"1475\" />';
+xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"Embeddedhelp/PendingOffers.htm\" ResolvedId=\"1510\" />';
+xmlAliasData += '    <Map Name=\"create-offer\" Link=\"Embeddedhelp/CreateOffer.htm\" ResolvedId=\"1500\" />';
+xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"Embeddedhelp/UnmappedParentPayTransactions.htm\" ResolvedId=\"1490\" />';
+xmlAliasData += '    <Map Name=\"documents\" Link=\"Embeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
+xmlAliasData += '    <Map Name=\"billing\" Link=\"Embeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
