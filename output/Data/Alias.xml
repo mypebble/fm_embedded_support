@@ -9,7 +9,6 @@
     <Map Name="cash-history" Link="Embeddedhelp/CashHistory.htm" ResolvedId="1030" />
     <Map Name="claim-gift-aid-donations" Link="Embeddedhelp/ClaimGiftAidDonations.htm" ResolvedId="1035" />
     <Map Name="claim-history" Link="Embeddedhelp/ClaimHistory.htm" ResolvedId="1040" />
-    <Map Name="confirm-cancellation" Link="Embeddedhelp/ConfirmCancellation.htm" ResolvedId="1045" />
     <Map Name="dashboard" Link="Embeddedhelp/Dashboard.htm" ResolvedId="1050" />
     <Map Name="create-receipt" Link="Embeddedhelp/EnterReceipt.htm" ResolvedId="1055" />
     <Map Name="import-epayments" Link="Embeddedhelp/ImportePayments.htm" ResolvedId="1060" />
@@ -41,7 +40,6 @@
     <Map Name="reconcile-bank-account" Link="Embeddedhelp/ReconcileBankStatement1.htm" ResolvedId="1195" />
     <Map Name="reconcile-bank-statement" Link="Embeddedhelp/ReconcileBankStatement2.htm" ResolvedId="1200" />
     <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1215" />
-    <Map Name="selected-transaction" Link="Embeddedhelp/SelectedTransaction.htm" ResolvedId="1210" />
     <Map Name="cancel-amend-bank-transaction" Link="Embeddedhelp/CancelAmendBankTransaction.htm" ResolvedId="1205" />
     <Map Name="unreconcile-bank-account" Link="Embeddedhelp/UnreconcileBankAccount.htm" ResolvedId="1220" />
     <Map Name="unreconcile-bank-statement" Link="Embeddedhelp/UnreconcileBankStatement.htm" ResolvedId="1225" />
@@ -80,7 +78,6 @@
     <Map Name="organisation-dashboard" Link="Embeddedhelp/OrganisationDashboard.htm" ResolvedId="1425" />
     <Map Name="new-ledger-code" Link="Embeddedhelp/NewLedgerCode.htm" ResolvedId="1390" />
     <Map Name="new-bank-ledger-code" Link="Embeddedhelp/NewBankLedgerCode.htm" ResolvedId="1395" />
-    <Map Name="amend-opening-balances" Link="Embeddedhelp/AmendOpeningBalance.htm" ResolvedId="1410" />
     <Map Name="view-opening-balances" Link="Embeddedhelp/ViewOpeningBalances.htm" ResolvedId="1405" />
     <Map Name="period-end-closedown" Link="Embeddedhelp/PeriodEndClosedown.htm" ResolvedId="1415" />
     <Map Name="manage-organisations" Link="Embeddedhelp/ManageOrganisations.htm" ResolvedId="1430" />
@@ -95,12 +92,14 @@
     <Map Name="map-settlement-accounts" Link="Embeddedhelp/MapSettlementAccounts.htm" ResolvedId="1485" />
     <Map Name="upload-document" Link="Embeddedhelp/UploadDocument.htm" ResolvedId="1515" />
     <Map Name="authenticate" Link="Embeddedhelp/Authenticate.htm" ResolvedId="1495" />
-    <Map Name="active-offers" Link="Embeddedhelp/ActiveOffers.htm" ResolvedId="1505" />
     <Map Name="map-accounts-payment-items" Link="Embeddedhelp/MapAccountsPaymentItems.htm" ResolvedId="1480" />
     <Map Name="map-names" Link="Embeddedhelp/MapNames.htm" ResolvedId="1475" />
-    <Map Name="pending-offers" Link="Embeddedhelp/PendingOffers.htm" ResolvedId="1510" />
-    <Map Name="create-offer" Link="Embeddedhelp/CreateOffer.htm" ResolvedId="1500" />
+    <Map Name="pending-offers" Link="Embeddedhelp/JoinosPendingOffers.htm" ResolvedId="1510" />
     <Map Name="unmapped-parentpay-transactions" Link="Embeddedhelp/UnmappedParentPayTransactions.htm" ResolvedId="1490" />
     <Map Name="documents" Link="Embeddedhelp/Documents.htm" ResolvedId="1520" />
     <Map Name="billing" Link="Embeddedhelp/Billing.htm" ResolvedId="1530" />
+    <Map Name="joinos-create-offer" Link="Embeddedhelp/JoinosCreateOffer.htm" ResolvedId="1560" />
+    <Map Name="joinos-active-offers" Link="Embeddedhelp/JoinosActiveOffers.htm" ResolvedId="1565" />
+    <Map Name="joinos-expired-offers" Link="Embeddedhelp/JoinosExpiredOffers.htm" ResolvedId="1570" />
+    <Map Name="manage-ledger-codes" Link="Embeddedhelp/ManageLedgerCodes.htm" ResolvedId="1575" />
 </CatapultAliasFile>

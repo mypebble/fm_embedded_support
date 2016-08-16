@@ -10,7 +10,6 @@ xmlAliasData += '    <Map Name=\"cancel-receipt-or-payment\" Link=\"Embeddedhelp
 xmlAliasData += '    <Map Name=\"cash-history\" Link=\"Embeddedhelp/CashHistory.htm\" ResolvedId=\"1030\" />';
 xmlAliasData += '    <Map Name=\"claim-gift-aid-donations\" Link=\"Embeddedhelp/ClaimGiftAidDonations.htm\" ResolvedId=\"1035\" />';
 xmlAliasData += '    <Map Name=\"claim-history\" Link=\"Embeddedhelp/ClaimHistory.htm\" ResolvedId=\"1040\" />';
-xmlAliasData += '    <Map Name=\"confirm-cancellation\" Link=\"Embeddedhelp/ConfirmCancellation.htm\" ResolvedId=\"1045\" />';
 xmlAliasData += '    <Map Name=\"dashboard\" Link=\"Embeddedhelp/Dashboard.htm\" ResolvedId=\"1050\" />';
 xmlAliasData += '    <Map Name=\"create-receipt\" Link=\"Embeddedhelp/EnterReceipt.htm\" ResolvedId=\"1055\" />';
 xmlAliasData += '    <Map Name=\"import-epayments\" Link=\"Embeddedhelp/ImportePayments.htm\" ResolvedId=\"1060\" />';
@@ -42,7 +41,6 @@ xmlAliasData += '    <Map Name=\"draw-cheque-for-cash\" Link=\"Embeddedhelp/Draw
 xmlAliasData += '    <Map Name=\"reconcile-bank-account\" Link=\"Embeddedhelp/ReconcileBankStatement1.htm\" ResolvedId=\"1195\" />';
 xmlAliasData += '    <Map Name=\"reconcile-bank-statement\" Link=\"Embeddedhelp/ReconcileBankStatement2.htm\" ResolvedId=\"1200\" />';
 xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1215\" />';
-xmlAliasData += '    <Map Name=\"selected-transaction\" Link=\"Embeddedhelp/SelectedTransaction.htm\" ResolvedId=\"1210\" />';
 xmlAliasData += '    <Map Name=\"cancel-amend-bank-transaction\" Link=\"Embeddedhelp/CancelAmendBankTransaction.htm\" ResolvedId=\"1205\" />';
 xmlAliasData += '    <Map Name=\"unreconcile-bank-account\" Link=\"Embeddedhelp/UnreconcileBankAccount.htm\" ResolvedId=\"1220\" />';
 xmlAliasData += '    <Map Name=\"unreconcile-bank-statement\" Link=\"Embeddedhelp/UnreconcileBankStatement.htm\" ResolvedId=\"1225\" />';
@@ -81,7 +79,6 @@ xmlAliasData += '    <Map Name=\"update-bank-account\" Link=\"Embeddedhelp/Updat
 xmlAliasData += '    <Map Name=\"organisation-dashboard\" Link=\"Embeddedhelp/OrganisationDashboard.htm\" ResolvedId=\"1425\" />';
 xmlAliasData += '    <Map Name=\"new-ledger-code\" Link=\"Embeddedhelp/NewLedgerCode.htm\" ResolvedId=\"1390\" />';
 xmlAliasData += '    <Map Name=\"new-bank-ledger-code\" Link=\"Embeddedhelp/NewBankLedgerCode.htm\" ResolvedId=\"1395\" />';
-xmlAliasData += '    <Map Name=\"amend-opening-balances\" Link=\"Embeddedhelp/AmendOpeningBalance.htm\" ResolvedId=\"1410\" />';
 xmlAliasData += '    <Map Name=\"view-opening-balances\" Link=\"Embeddedhelp/ViewOpeningBalances.htm\" ResolvedId=\"1405\" />';
 xmlAliasData += '    <Map Name=\"period-end-closedown\" Link=\"Embeddedhelp/PeriodEndClosedown.htm\" ResolvedId=\"1415\" />';
 xmlAliasData += '    <Map Name=\"manage-organisations\" Link=\"Embeddedhelp/ManageOrganisations.htm\" ResolvedId=\"1430\" />';
@@ -96,13 +93,15 @@ xmlAliasData += '    <Map Name=\"import-legacy-dbf-files\" Link=\"Embeddedhelp/I
 xmlAliasData += '    <Map Name=\"map-settlement-accounts\" Link=\"Embeddedhelp/MapSettlementAccounts.htm\" ResolvedId=\"1485\" />';
 xmlAliasData += '    <Map Name=\"upload-document\" Link=\"Embeddedhelp/UploadDocument.htm\" ResolvedId=\"1515\" />';
 xmlAliasData += '    <Map Name=\"authenticate\" Link=\"Embeddedhelp/Authenticate.htm\" ResolvedId=\"1495\" />';
-xmlAliasData += '    <Map Name=\"active-offers\" Link=\"Embeddedhelp/ActiveOffers.htm\" ResolvedId=\"1505\" />';
 xmlAliasData += '    <Map Name=\"map-accounts-payment-items\" Link=\"Embeddedhelp/MapAccountsPaymentItems.htm\" ResolvedId=\"1480\" />';
 xmlAliasData += '    <Map Name=\"map-names\" Link=\"Embeddedhelp/MapNames.htm\" ResolvedId=\"1475\" />';
-xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"Embeddedhelp/PendingOffers.htm\" ResolvedId=\"1510\" />';
-xmlAliasData += '    <Map Name=\"create-offer\" Link=\"Embeddedhelp/CreateOffer.htm\" ResolvedId=\"1500\" />';
+xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"Embeddedhelp/JoinosPendingOffers.htm\" ResolvedId=\"1510\" />';
 xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"Embeddedhelp/UnmappedParentPayTransactions.htm\" ResolvedId=\"1490\" />';
 xmlAliasData += '    <Map Name=\"documents\" Link=\"Embeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
 xmlAliasData += '    <Map Name=\"billing\" Link=\"Embeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
+xmlAliasData += '    <Map Name=\"joinos-create-offer\" Link=\"Embeddedhelp/JoinosCreateOffer.htm\" ResolvedId=\"1560\" />';
+xmlAliasData += '    <Map Name=\"joinos-active-offers\" Link=\"Embeddedhelp/JoinosActiveOffers.htm\" ResolvedId=\"1565\" />';
+xmlAliasData += '    <Map Name=\"joinos-expired-offers\" Link=\"Embeddedhelp/JoinosExpiredOffers.htm\" ResolvedId=\"1570\" />';
+xmlAliasData += '    <Map Name=\"manage-ledger-codes\" Link=\"Embeddedhelp/ManageLedgerCodes.htm\" ResolvedId=\"1575\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
