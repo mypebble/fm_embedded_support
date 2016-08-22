@@ -98,6 +98,7 @@ xmlAliasData += '    <Map Name=\"map-names\" Link=\"Embeddedhelp/MapNames.htm\" 
 xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"Embeddedhelp/JoinosPendingOffers.htm\" ResolvedId=\"1510\" />';
 xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"Embeddedhelp/UnmappedParentPayTransactions.htm\" ResolvedId=\"1490\" />';
 xmlAliasData += '    <Map Name=\"documents\" Link=\"Embeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
+xmlAliasData += '    <Map Name=\"manage-user-access-permissions\" Link=\"Embeddedhelp/ManageUserAccessPermissions.htm\" ResolvedId=\"1525\" />';
 xmlAliasData += '    <Map Name=\"billing\" Link=\"Embeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
 xmlAliasData += '    <Map Name=\"bank-and-cash-summary\" Link=\"Embeddedhelp/BankAndCashSummary.htm\" ResolvedId=\"1540\" />';
 xmlAliasData += '    <Map Name=\"register-account-summary-top\" Link=\"Embeddedhelp/RegisterAccountSummaryTop.htm\" ResolvedId=\"1545\" />';
@@ -107,5 +108,9 @@ xmlAliasData += '    <Map Name=\"joinos-create-offer\" Link=\"Embeddedhelp/Joino
 xmlAliasData += '    <Map Name=\"joinos-active-offers\" Link=\"Embeddedhelp/JoinosActiveOffers.htm\" ResolvedId=\"1565\" />';
 xmlAliasData += '    <Map Name=\"joinos-expired-offers\" Link=\"Embeddedhelp/JoinosExpiredOffers.htm\" ResolvedId=\"1570\" />';
 xmlAliasData += '    <Map Name=\"manage-ledger-codes\" Link=\"Embeddedhelp/ManageLedgerCodes.htm\" ResolvedId=\"1575\" />';
+xmlAliasData += '    <Map Name=\"create-joinos-codes\" Link=\"Embeddedhelp/CreateJoinosCodes.htm\" ResolvedId=\"1580\" />';
+xmlAliasData += '    <Map Name=\"joinos-codes\" Link=\"Embeddedhelp/JoinosCodes.htm\" ResolvedId=\"1585\" />';
+xmlAliasData += '    <Map Name=\"manage-connections\" Link=\"Embeddedhelp/ManageConnections.htm\" ResolvedId=\"1590\" />';
+xmlAliasData += '    <Map Name=\"joinos-letters\" Link=\"Embeddedhelp/JoinosLetters.htm\" ResolvedId=\"1595\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
