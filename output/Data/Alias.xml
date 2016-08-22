@@ -111,4 +111,6 @@
     <Map Name="joinos-codes" Link="Embeddedhelp/JoinosCodes.htm" ResolvedId="1585" />
     <Map Name="manage-connections" Link="Embeddedhelp/ManageConnections.htm" ResolvedId="1590" />
     <Map Name="joinos-letters" Link="Embeddedhelp/JoinosLetters.htm" ResolvedId="1595" />
+    <Map Name="preview-consolidation" Link="Embeddedhelp/PreviewConsolidation.htm" ResolvedId="1615" />
+    <Map Name="consolidate-pupil" Link="Embeddedhelp/ConsolidatePupil.htm" ResolvedId="1610" />
 </CatapultAliasFile>

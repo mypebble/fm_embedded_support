@@ -112,5 +112,7 @@ xmlAliasData += '    <Map Name=\"create-joinos-codes\" Link=\"Embeddedhelp/Creat
 xmlAliasData += '    <Map Name=\"joinos-codes\" Link=\"Embeddedhelp/JoinosCodes.htm\" ResolvedId=\"1585\" />';
 xmlAliasData += '    <Map Name=\"manage-connections\" Link=\"Embeddedhelp/ManageConnections.htm\" ResolvedId=\"1590\" />';
 xmlAliasData += '    <Map Name=\"joinos-letters\" Link=\"Embeddedhelp/JoinosLetters.htm\" ResolvedId=\"1595\" />';
+xmlAliasData += '    <Map Name=\"preview-consolidation\" Link=\"Embeddedhelp/PreviewConsolidation.htm\" ResolvedId=\"1615\" />';
+xmlAliasData += '    <Map Name=\"consolidate-pupil\" Link=\"Embeddedhelp/ConsolidatePupil.htm\" ResolvedId=\"1610\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
