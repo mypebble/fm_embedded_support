@@ -99,6 +99,7 @@ xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"Embeddedhelp/JoinosPend
 xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"Embeddedhelp/UnmappedParentPayTransactions.htm\" ResolvedId=\"1490\" />';
 xmlAliasData += '    <Map Name=\"documents\" Link=\"Embeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
 xmlAliasData += '    <Map Name=\"billing\" Link=\"Embeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
+xmlAliasData += '    <Map Name=\"bank-and-cash-summary\" Link=\"Embeddedhelp/BankAndCashSummary.htm\" ResolvedId=\"1540\" />';
 xmlAliasData += '    <Map Name=\"joinos-create-offer\" Link=\"Embeddedhelp/JoinosCreateOffer.htm\" ResolvedId=\"1560\" />';
 xmlAliasData += '    <Map Name=\"joinos-active-offers\" Link=\"Embeddedhelp/JoinosActiveOffers.htm\" ResolvedId=\"1565\" />';
 xmlAliasData += '    <Map Name=\"joinos-expired-offers\" Link=\"Embeddedhelp/JoinosExpiredOffers.htm\" ResolvedId=\"1570\" />';
