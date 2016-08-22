@@ -100,6 +100,9 @@ xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"Embedd
 xmlAliasData += '    <Map Name=\"documents\" Link=\"Embeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
 xmlAliasData += '    <Map Name=\"billing\" Link=\"Embeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
 xmlAliasData += '    <Map Name=\"bank-and-cash-summary\" Link=\"Embeddedhelp/BankAndCashSummary.htm\" ResolvedId=\"1540\" />';
+xmlAliasData += '    <Map Name=\"register-account-summary-top\" Link=\"Embeddedhelp/RegisterAccountSummaryTop.htm\" ResolvedId=\"1545\" />';
+xmlAliasData += '    <Map Name=\"compose-joinos-message\" Link=\"Embeddedhelp/ComposeJoinosMessage.htm\" ResolvedId=\"1550\" />';
+xmlAliasData += '    <Map Name=\"joinos-message-history\" Link=\"Embeddedhelp/JoinosMessageHistory.htm\" ResolvedId=\"1555\" />';
 xmlAliasData += '    <Map Name=\"joinos-create-offer\" Link=\"Embeddedhelp/JoinosCreateOffer.htm\" ResolvedId=\"1560\" />';
 xmlAliasData += '    <Map Name=\"joinos-active-offers\" Link=\"Embeddedhelp/JoinosActiveOffers.htm\" ResolvedId=\"1565\" />';
 xmlAliasData += '    <Map Name=\"joinos-expired-offers\" Link=\"Embeddedhelp/JoinosExpiredOffers.htm\" ResolvedId=\"1570\" />';
