@@ -29,7 +29,7 @@
     <Map Name="split-payment" Link="Embeddedhelp/SplitPayment.htm" ResolvedId="1140" />
     <Map Name="split-receipt" Link="Embeddedhelp/SplitReceipt.htm" ResolvedId="1145" />
     <Map Name="transfer-between-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1150" />
-    <Map Name="transfer-between-bank-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1155" />
+    <Map Name="transfer-between-bank-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1620" />
     <Map Name="transfer-between-names" Link="Embeddedhelp/TransferBetweenNames.htm" ResolvedId="1160" />
     <Map Name="update-ledger-code" Link="Embeddedhelp/UpdateLedgerCode.htm" ResolvedId="1165" />
     <Map Name="view-statement" Link="Embeddedhelp/ViewStatement.htm" ResolvedId="1170" />
@@ -39,7 +39,7 @@
     <Map Name="draw-cheque-for-cash" Link="Embeddedhelp/DrawChequeForCash.htm" ResolvedId="1190" />
     <Map Name="reconcile-bank-account" Link="Embeddedhelp/ReconcileBankStatement1.htm" ResolvedId="1195" />
     <Map Name="reconcile-bank-statement" Link="Embeddedhelp/ReconcileBankStatement2.htm" ResolvedId="1200" />
-    <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1215" />
+    <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1625" />
     <Map Name="cancel-amend-bank-transaction" Link="Embeddedhelp/CancelAmendBankTransaction.htm" ResolvedId="1205" />
     <Map Name="unreconcile-bank-account" Link="Embeddedhelp/UnreconcileBankAccount.htm" ResolvedId="1220" />
     <Map Name="unreconcile-bank-statement" Link="Embeddedhelp/UnreconcileBankStatement.htm" ResolvedId="1225" />
@@ -113,4 +113,6 @@
     <Map Name="joinos-letters" Link="Embeddedhelp/JoinosLetters.htm" ResolvedId="1595" />
     <Map Name="preview-consolidation" Link="Embeddedhelp/PreviewConsolidation.htm" ResolvedId="1615" />
     <Map Name="consolidate-pupil" Link="Embeddedhelp/ConsolidatePupil.htm" ResolvedId="1610" />
+    <Map Name="admin-create-organisation" Link="Embeddedhelp/AdminCreateOrganisation.htm" ResolvedId="1630" />
+    <Map Name="admin-update-organisation" Link="Embeddedhelp/AdminUpdateOrganisation.htm" ResolvedId="1635" />
 </CatapultAliasFile>
