@@ -89,6 +89,7 @@ xmlAliasData += '    <Map Name=\"update-user\" Link=\"Embeddedhelp/UpdateUser.ht
 xmlAliasData += '    <Map Name=\"manage-misapp\" Link=\"Embeddedhelp/ManageMISapp.htm\" ResolvedId=\"1445\" />';
 xmlAliasData += '    <Map Name=\"manage-users\" Link=\"Embeddedhelp/ManageUsers.htm\" ResolvedId=\"1450\" />';
 xmlAliasData += '    <Map Name=\"import-legacy-dbf-files\" Link=\"Embeddedhelp/ImportLegacyDBFFiles.htm\" ResolvedId=\"1465\" />';
+xmlAliasData += '    <Map Name=\"update-pupil\" Link=\"Embeddedhelp/UpdatePupil.htm\" ResolvedId=\"1470\" />';
 xmlAliasData += '    <Map Name=\"map-settlement-accounts\" Link=\"Embeddedhelp/MapSettlementAccounts.htm\" ResolvedId=\"1485\" />';
 xmlAliasData += '    <Map Name=\"upload-document\" Link=\"Embeddedhelp/UploadDocument.htm\" ResolvedId=\"1515\" />';
 xmlAliasData += '    <Map Name=\"authenticate\" Link=\"Embeddedhelp/Authenticate.htm\" ResolvedId=\"1495\" />';
@@ -113,6 +114,7 @@ xmlAliasData += '    <Map Name=\"manage-connections\" Link=\"Embeddedhelp/Manage
 xmlAliasData += '    <Map Name=\"joinos-letters\" Link=\"Embeddedhelp/JoinosLetters.htm\" ResolvedId=\"1595\" />';
 xmlAliasData += '    <Map Name=\"preview-consolidation\" Link=\"Embeddedhelp/PreviewConsolidation.htm\" ResolvedId=\"1615\" />';
 xmlAliasData += '    <Map Name=\"consolidate-pupil\" Link=\"Embeddedhelp/ConsolidatePupil.htm\" ResolvedId=\"1610\" />';
+xmlAliasData += '    <Map Name=\"sent-joinos-message\" Link=\"Embeddedhelp/SentJoinosMessage.htm\" ResolvedId=\"1600\" />';
 xmlAliasData += '    <Map Name=\"admin-create-organisation\" Link=\"Embeddedhelp/AdminCreateOrganisation.htm\" ResolvedId=\"1630\" />';
 xmlAliasData += '    <Map Name=\"admin-update-organisation\" Link=\"Embeddedhelp/AdminUpdateOrganisation.htm\" ResolvedId=\"1635\" />';
 xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1625\" />';
