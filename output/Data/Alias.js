@@ -118,5 +118,7 @@ xmlAliasData += '    <Map Name=\"sent-joinos-message\" Link=\"Embeddedhelp/SentJ
 xmlAliasData += '    <Map Name=\"admin-create-organisation\" Link=\"Embeddedhelp/AdminCreateOrganisation.htm\" ResolvedId=\"1630\" />';
 xmlAliasData += '    <Map Name=\"admin-update-organisation\" Link=\"Embeddedhelp/AdminUpdateOrganisation.htm\" ResolvedId=\"1635\" />';
 xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1625\" />';
+xmlAliasData += '    <Map Name=\"take-guid\" Link=\"Embeddedhelp/TakeGUID.htm\" ResolvedId=\"1640\" />';
+xmlAliasData += '    <Map Name=\"joinos-permissions\" Link=\"Embeddedhelp/JoinosPermissions.htm\" ResolvedId=\"1645\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
