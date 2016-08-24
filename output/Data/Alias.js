@@ -30,7 +30,7 @@ xmlAliasData += '    <Map Name=\"set-VAT-status\" Link=\"Embeddedhelp/SetVATStat
 xmlAliasData += '    <Map Name=\"split-payment\" Link=\"Embeddedhelp/SplitPayment.htm\" ResolvedId=\"1140\" />';
 xmlAliasData += '    <Map Name=\"split-receipt\" Link=\"Embeddedhelp/SplitReceipt.htm\" ResolvedId=\"1145\" />';
 xmlAliasData += '    <Map Name=\"transfer-between-accounts\" Link=\"Embeddedhelp/TransferBetweenAccounts.htm\" ResolvedId=\"1150\" />';
-xmlAliasData += '    <Map Name=\"transfer-between-bank-accounts\" Link=\"Embeddedhelp/TransferBetweenAccounts.htm\" ResolvedId=\"1620\" />';
+xmlAliasData += '    <Map Name=\"transfer-between-bank-accounts\" Link=\"Embeddedhelp/TransferBetweenBankAccounts.htm\" ResolvedId=\"1620\" />';
 xmlAliasData += '    <Map Name=\"transfer-between-names\" Link=\"Embeddedhelp/TransferBetweenNames.htm\" ResolvedId=\"1160\" />';
 xmlAliasData += '    <Map Name=\"update-ledger-code\" Link=\"Embeddedhelp/UpdateLedgerCode.htm\" ResolvedId=\"1165\" />';
 xmlAliasData += '    <Map Name=\"view-statement\" Link=\"Embeddedhelp/ViewStatement.htm\" ResolvedId=\"1170\" />';
@@ -40,7 +40,6 @@ xmlAliasData += '    <Map Name=\"new-paying-in-slip\" Link=\"Embeddedhelp/NewPay
 xmlAliasData += '    <Map Name=\"draw-cheque-for-cash\" Link=\"Embeddedhelp/DrawChequeForCash.htm\" ResolvedId=\"1190\" />';
 xmlAliasData += '    <Map Name=\"reconcile-bank-account\" Link=\"Embeddedhelp/ReconcileBankStatement1.htm\" ResolvedId=\"1195\" />';
 xmlAliasData += '    <Map Name=\"reconcile-bank-statement\" Link=\"Embeddedhelp/ReconcileBankStatement2.htm\" ResolvedId=\"1200\" />';
-xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1625\" />';
 xmlAliasData += '    <Map Name=\"cancel-amend-bank-transaction\" Link=\"Embeddedhelp/CancelAmendBankTransaction.htm\" ResolvedId=\"1205\" />';
 xmlAliasData += '    <Map Name=\"unreconcile-bank-account\" Link=\"Embeddedhelp/UnreconcileBankAccount.htm\" ResolvedId=\"1220\" />';
 xmlAliasData += '    <Map Name=\"unreconcile-bank-statement\" Link=\"Embeddedhelp/UnreconcileBankStatement.htm\" ResolvedId=\"1225\" />';
@@ -116,5 +115,6 @@ xmlAliasData += '    <Map Name=\"preview-consolidation\" Link=\"Embeddedhelp/Pre
 xmlAliasData += '    <Map Name=\"consolidate-pupil\" Link=\"Embeddedhelp/ConsolidatePupil.htm\" ResolvedId=\"1610\" />';
 xmlAliasData += '    <Map Name=\"admin-create-organisation\" Link=\"Embeddedhelp/AdminCreateOrganisation.htm\" ResolvedId=\"1630\" />';
 xmlAliasData += '    <Map Name=\"admin-update-organisation\" Link=\"Embeddedhelp/AdminUpdateOrganisation.htm\" ResolvedId=\"1635\" />';
+xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"Embeddedhelp/AmendPayingInSlip.htm\" ResolvedId=\"1625\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
