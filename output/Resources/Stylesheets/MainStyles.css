@@ -6,6 +6,15 @@
 .foundation-wrap .off-canvas-wrap .inner-wrap section{
 	padding: 20px 0px !important;
 }
+			
+.wrapper-footer{
+margin-top: 40px;
+}
+.wrapper-footer .line{
+height: 2px;
+background: black;
+margin-bottom: 10px;
+}			
 .section-search
 {
 	margin-bottom: 50px !important;
