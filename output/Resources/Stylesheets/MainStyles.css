@@ -1,11 +1,23 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 @import url('https://staticdemo.pebblecloud.net/css/flare-website.css');
-@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
 .foundation-wrap .off-canvas-wrap .inner-wrap section{
 	padding: 20px 0px !important;
 }
+
+<div class="wrapper-footer">
+			<div class="line"></div>
+			
+.wrapper-footer{
+margin-top: 20px;
+}
+.wrapper-footer .line{
+height: 1px;
+background: blue;
+margin-bottom: 10px;
+}			
+
 
 .section-search
 {
