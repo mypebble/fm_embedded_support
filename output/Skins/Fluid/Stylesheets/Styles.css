@@ -24,8 +24,8 @@ body
 
 .main-section > .outer-row
 {
-	padding-top: 0px;
-	padding-bottom: 0em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 	max-width: 62.5em;
 }
 
@@ -334,10 +334,10 @@ nav.tab-bar
 	height: auto;
 	line-height: inherit;
 	padding: 10px 0;
-	display: none;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	background-color: #eeeeee;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #ffffff;
 }
 
 nav.tab-bar .menu-icon
@@ -533,7 +533,7 @@ html.pulseTopic .main-section .row.outer-row
 
 .tab-bar .menu-icon span
 {
-	top: 0px;
+	top: 10px;
 }
 
 ul.navigation ul a

@@ -50,7 +50,7 @@
 	{
 		background-repeat: no-repeat;
 		background-position: center top;
-		background-color: #eeeeee;
+		background-color: #ffffff;
 	}
 
 	/* Topbar Menu Styles */
@@ -88,7 +88,7 @@
 		height: 48px;
 		width: 48px;
 		display: block;
-		top: 0px;
+		top: 10px;
 		background: transparent url('Images/Menu.png') no-repeat center center;
 		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}
