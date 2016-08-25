@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="94" MadCap:lastWidth="891">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="142" MadCap:lastWidth="1206">
     <head>
         <link href="https://staticdemo.pebblecloud.net/css/flare-website.css" rel="stylesheet" type="text/css" />
         <link href="../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
@@ -9,7 +9,7 @@
         <div class="wrapper-footer">
             <div class="line">
             </div>
-            <h5>For more information ...</h5>
+            <h5 class="panelmoreinfo">For more information ...</h5>
             <p>See <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank">Pebble Support.</a></p>
         </div>
     </body>

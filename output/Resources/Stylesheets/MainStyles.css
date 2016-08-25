@@ -3,19 +3,22 @@
 @import url('https://staticdemo.pebblecloud.net/css/flare-website.css');
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
-.foundation-wrap .off-canvas-wrap .inner-wrap section{
+.foundation-wrap .off-canvas-wrap .inner-wrap section
+{
 	padding: 20px 0px !important;
 }
 
-.wrapper-footer{
-margin-top: 20px;
+.wrapper-footer
+{
+	margin-top: 20px;
 }
-.wrapper-footer .line{
-height: 1px;
-background: #2577aa;
-margin-bottom: 10px;
-}			
 
+.wrapper-footer .line
+{
+	height: 1px;
+	background: #2577aa;
+	margin-bottom: 10px;
+}
 
 .section-search
 {
@@ -521,3 +524,10 @@ h4.paneltitle
 	color: #2577aa;
 	padding-bottom: 10px;
 }
+
+h5.panelmoreinfo
+{
+	font-size: 0.75em;
+	color: #2577aa;
+}
+
