@@ -88,7 +88,7 @@
 		height: 48px;
 		width: 48px;
 		display: block;
-		top: 10px;
+		top: 0px;
 		background: transparent url('Images/Menu.png') no-repeat center center;
 		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}

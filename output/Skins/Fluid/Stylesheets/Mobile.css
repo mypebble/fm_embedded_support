@@ -75,7 +75,7 @@
 
 	.tab-bar .menu-icon span
 	{
-		top: 10px;
+		top: 0px;
 		background: transparent url('Images/Menu.png') no-repeat center center;
 	}
 

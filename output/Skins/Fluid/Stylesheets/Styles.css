@@ -24,8 +24,8 @@ body
 
 .main-section > .outer-row
 {
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding-top: 0em;
+	padding-bottom: 0em;
 	max-width: 62.5em;
 }
 
@@ -335,8 +335,8 @@ nav.tab-bar
 	line-height: inherit;
 	padding: 10px 0;
 	display: block;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 	background-color: #ffffff;
 }
 
@@ -533,7 +533,7 @@ html.pulseTopic .main-section .row.outer-row
 
 .tab-bar .menu-icon span
 {
-	top: 10px;
+	top: 0px;
 }
 
 ul.navigation ul a
