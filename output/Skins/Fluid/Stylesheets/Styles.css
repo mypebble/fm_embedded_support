@@ -24,7 +24,7 @@ body
 
 .main-section > .outer-row
 {
-	padding-top: -25px;
+	padding-top: 0px;
 	padding-bottom: 0em;
 	max-width: 62.5em;
 }
@@ -334,7 +334,7 @@ nav.tab-bar
 	height: auto;
 	line-height: inherit;
 	padding: 10px 0;
-	display: block;
+	display: none;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	background-color: #ffffff;
