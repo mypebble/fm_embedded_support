@@ -502,3 +502,9 @@ a.tiplink:link
 	color: #ffffff;
 }
 
+h4.paneltitle
+{
+	color: #2577aa;
+	padding-bottom: 10px;
+}
+
