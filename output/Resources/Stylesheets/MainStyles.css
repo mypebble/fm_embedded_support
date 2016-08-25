@@ -3,6 +3,10 @@
 @import url('https://staticdemo.pebblecloud.net/css/flare-website.css');
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
+.foundation-wrap .off-canvas-wrap .inner-wrap section{
+	padding: 20px 0px !important;
+}
+
 .section-search
 {
 	margin-bottom: 50px !important;
@@ -507,4 +511,3 @@ h4.paneltitle
 	color: #2577aa;
 	padding-bottom: 10px;
 }
-
