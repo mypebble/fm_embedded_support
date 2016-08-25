@@ -6,11 +6,7 @@
     </head>
     <body>
         <MadCap:bodyProxy />
- 		<div class="wrapper-footer">
-			<div class="line"></div>
-			<h5>For more information ...</h5>
-			<p>See <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank">Pebble Support.</a></p>
-
-		 </div>
+        <h4>For more information ...</h4>
+        <p>See <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank">Pebble Support.</a></p>
     </body>
 </html>
