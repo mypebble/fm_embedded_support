@@ -1,7 +1,12 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 @import url('https://staticdemo.pebblecloud.net/css/flare-website.css');
-@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+.tab-bar{display:none;}
+
+foundation—wrap:first-child .inner-wrap{
+padding:0px;
+}
 
 .section-search
 {
@@ -502,3 +507,14 @@ a.tiplink:link
 	color: #ffffff;
 }
 
+h4.paneltitle
+{
+	color: #2577aa;
+	padding-bottom: 10px;
+}
+
+h5.panelmoreinfo
+{
+	font-size: 0.75em;
+	color: #2577aa;
+}

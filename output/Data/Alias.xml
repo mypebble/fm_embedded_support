@@ -9,7 +9,6 @@
     <Map Name="cash-history" Link="Embeddedhelp/CashHistory.htm" ResolvedId="1030" />
     <Map Name="claim-gift-aid-donations" Link="Embeddedhelp/ClaimGiftAidDonations.htm" ResolvedId="1035" />
     <Map Name="claim-history" Link="Embeddedhelp/ClaimHistory.htm" ResolvedId="1040" />
-    <Map Name="confirm-cancellation" Link="Embeddedhelp/ConfirmCancellation.htm" ResolvedId="1045" />
     <Map Name="dashboard" Link="Embeddedhelp/Dashboard.htm" ResolvedId="1050" />
     <Map Name="create-receipt" Link="Embeddedhelp/EnterReceipt.htm" ResolvedId="1055" />
     <Map Name="import-epayments" Link="Embeddedhelp/ImportePayments.htm" ResolvedId="1060" />
@@ -30,7 +29,7 @@
     <Map Name="split-payment" Link="Embeddedhelp/SplitPayment.htm" ResolvedId="1140" />
     <Map Name="split-receipt" Link="Embeddedhelp/SplitReceipt.htm" ResolvedId="1145" />
     <Map Name="transfer-between-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1150" />
-    <Map Name="transfer-between-bank-accounts" Link="Embeddedhelp/TransferBetweenAccounts.htm" ResolvedId="1155" />
+    <Map Name="transfer-between-bank-accounts" Link="Embeddedhelp/TransferBetweenBankAccounts.htm" ResolvedId="1620" />
     <Map Name="transfer-between-names" Link="Embeddedhelp/TransferBetweenNames.htm" ResolvedId="1160" />
     <Map Name="update-ledger-code" Link="Embeddedhelp/UpdateLedgerCode.htm" ResolvedId="1165" />
     <Map Name="view-statement" Link="Embeddedhelp/ViewStatement.htm" ResolvedId="1170" />
@@ -40,8 +39,6 @@
     <Map Name="draw-cheque-for-cash" Link="Embeddedhelp/DrawChequeForCash.htm" ResolvedId="1190" />
     <Map Name="reconcile-bank-account" Link="Embeddedhelp/ReconcileBankStatement1.htm" ResolvedId="1195" />
     <Map Name="reconcile-bank-statement" Link="Embeddedhelp/ReconcileBankStatement2.htm" ResolvedId="1200" />
-    <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1215" />
-    <Map Name="selected-transaction" Link="Embeddedhelp/SelectedTransaction.htm" ResolvedId="1210" />
     <Map Name="cancel-amend-bank-transaction" Link="Embeddedhelp/CancelAmendBankTransaction.htm" ResolvedId="1205" />
     <Map Name="unreconcile-bank-account" Link="Embeddedhelp/UnreconcileBankAccount.htm" ResolvedId="1220" />
     <Map Name="unreconcile-bank-statement" Link="Embeddedhelp/UnreconcileBankStatement.htm" ResolvedId="1225" />
@@ -80,7 +77,6 @@
     <Map Name="organisation-dashboard" Link="Embeddedhelp/OrganisationDashboard.htm" ResolvedId="1425" />
     <Map Name="new-ledger-code" Link="Embeddedhelp/NewLedgerCode.htm" ResolvedId="1390" />
     <Map Name="new-bank-ledger-code" Link="Embeddedhelp/NewBankLedgerCode.htm" ResolvedId="1395" />
-    <Map Name="amend-opening-balances" Link="Embeddedhelp/AmendOpeningBalance.htm" ResolvedId="1410" />
     <Map Name="view-opening-balances" Link="Embeddedhelp/ViewOpeningBalances.htm" ResolvedId="1405" />
     <Map Name="period-end-closedown" Link="Embeddedhelp/PeriodEndClosedown.htm" ResolvedId="1415" />
     <Map Name="manage-organisations" Link="Embeddedhelp/ManageOrganisations.htm" ResolvedId="1430" />
@@ -92,15 +88,35 @@
     <Map Name="manage-misapp" Link="Embeddedhelp/ManageMISapp.htm" ResolvedId="1445" />
     <Map Name="manage-users" Link="Embeddedhelp/ManageUsers.htm" ResolvedId="1450" />
     <Map Name="import-legacy-dbf-files" Link="Embeddedhelp/ImportLegacyDBFFiles.htm" ResolvedId="1465" />
+    <Map Name="update-pupil" Link="Embeddedhelp/UpdatePupil.htm" ResolvedId="1470" />
     <Map Name="map-settlement-accounts" Link="Embeddedhelp/MapSettlementAccounts.htm" ResolvedId="1485" />
     <Map Name="upload-document" Link="Embeddedhelp/UploadDocument.htm" ResolvedId="1515" />
     <Map Name="authenticate" Link="Embeddedhelp/Authenticate.htm" ResolvedId="1495" />
-    <Map Name="active-offers" Link="Embeddedhelp/ActiveOffers.htm" ResolvedId="1505" />
     <Map Name="map-accounts-payment-items" Link="Embeddedhelp/MapAccountsPaymentItems.htm" ResolvedId="1480" />
     <Map Name="map-names" Link="Embeddedhelp/MapNames.htm" ResolvedId="1475" />
-    <Map Name="pending-offers" Link="Embeddedhelp/PendingOffers.htm" ResolvedId="1510" />
-    <Map Name="create-offer" Link="Embeddedhelp/CreateOffer.htm" ResolvedId="1500" />
+    <Map Name="pending-offers" Link="Embeddedhelp/JoinosPendingOffers.htm" ResolvedId="1510" />
     <Map Name="unmapped-parentpay-transactions" Link="Embeddedhelp/UnmappedParentPayTransactions.htm" ResolvedId="1490" />
     <Map Name="documents" Link="Embeddedhelp/Documents.htm" ResolvedId="1520" />
+    <Map Name="manage-user-access-permissions" Link="Embeddedhelp/ManageUserAccessPermissions.htm" ResolvedId="1525" />
     <Map Name="billing" Link="Embeddedhelp/Billing.htm" ResolvedId="1530" />
+    <Map Name="bank-and-cash-summary" Link="Embeddedhelp/BankAndCashSummary.htm" ResolvedId="1540" />
+    <Map Name="register-account-summary-top" Link="Embeddedhelp/RegisterAccountSummaryTop.htm" ResolvedId="1545" />
+    <Map Name="compose-joinos-message" Link="Embeddedhelp/ComposeJoinosMessage.htm" ResolvedId="1550" />
+    <Map Name="joinos-message-history" Link="Embeddedhelp/JoinosMessageHistory.htm" ResolvedId="1555" />
+    <Map Name="joinos-create-offer" Link="Embeddedhelp/JoinosCreateOffer.htm" ResolvedId="1560" />
+    <Map Name="joinos-active-offers" Link="Embeddedhelp/JoinosActiveOffers.htm" ResolvedId="1565" />
+    <Map Name="joinos-expired-offers" Link="Embeddedhelp/JoinosExpiredOffers.htm" ResolvedId="1570" />
+    <Map Name="manage-ledger-codes" Link="Embeddedhelp/ManageLedgerCodes.htm" ResolvedId="1575" />
+    <Map Name="create-joinos-codes" Link="Embeddedhelp/CreateJoinosCodes.htm" ResolvedId="1580" />
+    <Map Name="joinos-codes" Link="Embeddedhelp/JoinosCodes.htm" ResolvedId="1585" />
+    <Map Name="manage-connections" Link="Embeddedhelp/ManageConnections.htm" ResolvedId="1590" />
+    <Map Name="joinos-letters" Link="Embeddedhelp/JoinosLetters.htm" ResolvedId="1595" />
+    <Map Name="preview-consolidation" Link="Embeddedhelp/PreviewConsolidation.htm" ResolvedId="1615" />
+    <Map Name="consolidate-pupil" Link="Embeddedhelp/ConsolidatePupil.htm" ResolvedId="1610" />
+    <Map Name="sent-joinos-message" Link="Embeddedhelp/SentJoinosMessage.htm" ResolvedId="1600" />
+    <Map Name="admin-create-organisation" Link="Embeddedhelp/AdminCreateOrganisation.htm" ResolvedId="1630" />
+    <Map Name="admin-update-organisation" Link="Embeddedhelp/AdminUpdateOrganisation.htm" ResolvedId="1635" />
+    <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1625" />
+    <Map Name="take-guid" Link="Embeddedhelp/TakeGUID.htm" ResolvedId="1640" />
+    <Map Name="joinos-permissions" Link="Embeddedhelp/JoinosPermissions.htm" ResolvedId="1645" />
 </CatapultAliasFile>
