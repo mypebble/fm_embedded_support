@@ -119,4 +119,5 @@
     <Map Name="amend-paying-in-slip" Link="Embeddedhelp/AmendPayingInSlip.htm" ResolvedId="1625" />
     <Map Name="take-guid" Link="Embeddedhelp/TakeGUID.htm" ResolvedId="1640" />
     <Map Name="joinos-permissions" Link="Embeddedhelp/JoinosPermissions.htm" ResolvedId="1645" />
+    <Map Name="manage-connections2" Link="Embeddedhelp/ManageConnections.htm" ResolvedId="1591" />
 </CatapultAliasFile>
