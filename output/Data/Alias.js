@@ -121,5 +121,6 @@ xmlAliasData += '    <Map Name=\"amend-paying-in-slip\" Link=\"FMEmbeddedhelp/Am
 xmlAliasData += '    <Map Name=\"take-guid\" Link=\"FMEmbeddedhelp/TakeGUID.htm\" ResolvedId=\"1640\" />';
 xmlAliasData += '    <Map Name=\"joinos-permissions\" Link=\"FMEmbeddedhelp/JoinosPermissions.htm\" ResolvedId=\"1645\" />';
 xmlAliasData += '    <Map Name=\"manage-connections2\" Link=\"FMEmbeddedhelp/ManageConnections.htm\" ResolvedId=\"1591\" />';
+xmlAliasData += '    <Map Name=\"joinos-create-offer-v2beta\" Link=\"FMEmbeddedhelp/JoinosCreateOfferV2Beta.htm\" ResolvedId=\"1561\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
