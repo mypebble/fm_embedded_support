@@ -1,6 +1,7 @@
 var xmlAliasData = "";
 xmlAliasData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
 xmlAliasData += '<CatapultAliasFile>';
+xmlAliasData += '    <!-- saved from url=(0016)http://localhost -->';
 xmlAliasData += '    <Map Name=\"account-summary\" Link=\"FMEmbeddedhelp/AccountSummary.htm\" ResolvedId=\"1000\" />';
 xmlAliasData += '    <Map Name=\"amend-payment\" Link=\"FMEmbeddedhelp/AmendPayment.htm\" ResolvedId=\"1005\" />';
 xmlAliasData += '    <Map Name=\"amend-receipt\" Link=\"FMEmbeddedhelp/AmendReceipt.htm\" ResolvedId=\"1010\" />';
