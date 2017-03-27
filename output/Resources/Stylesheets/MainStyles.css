@@ -1,4 +1,4 @@
-/*<meta />*/
+/*<meta conditions="" />*/
 
 @import url('https://staticdemo.pebblecloud.net/css/flare-website.css');
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
@@ -85,7 +85,9 @@ a.MCBreadcrumbsLink:hover
 
 div.example
 {
-	
+	padding: 1px;
+	padding-bottom: 1px;
+	padding-top: 1px;
 }
 
 div.ImagesFloatLeft
@@ -146,7 +148,7 @@ h2
 
 h3
 {
-	
+	mc-heading-level: 3;
 }
 
 img
@@ -339,7 +341,8 @@ span.SetOffSecondLevel
 
 td
 {
-	
+	padding: 1px;
+	padding-top: 3px;
 }
 
 th
@@ -354,7 +357,7 @@ html.templateTopic div.sideContent
 
 p.FooterRight
 {
-	
+	text-align: right;
 }
 
 p.HeaderLeft
@@ -367,19 +370,14 @@ p.FooterLeft
 	
 }
 
-h1.NotInToc
-{
-	
-}
-
 h1.Title
 {
-	
+	mc-heading-level: 0;
 }
 
 p.HeaderRight
 {
-	
+	text-align: right;
 }
 
 p.note
@@ -441,6 +439,21 @@ MadCap|glossaryTerm:focus
 	font-style: normal;
 }
 
+h4
+{
+	mc-heading-level: 0;
+}
+
+h5
+{
+	mc-heading-level: 0;
+}
+
+h6
+{
+	mc-heading-level: 0;
+}
+
 @media print
 {
 	MadCap|dropDownBody
@@ -456,7 +469,7 @@ MadCap|glossaryTerm:focus
 
 	h1.NotInToc
 	{
-		font-size: 3em;
+		font-size: 2em;
 	}
 
 	p.bullet
@@ -474,6 +487,45 @@ MadCap|glossaryTerm:focus
 		border: none;
 		max-height: auto;
 		max-width: 500px;
+	}
+
+	h3
+	{
+		mc-hyphenate: never;
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	h1
+	{
+		mc-hyphenate: never;
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	h2
+	{
+		mc-hyphenate: never;
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	p
+	{
+		mc-hyphenate: never;
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	img.print
+	{
+		mc-float: center;
+	}
+
+	table
+	{
+		margin-bottom: 1rem;
+	}
+
+	_generic_.table
+	{
+		margin-bottom: 1rem;
 	}
 }
 
@@ -531,3 +583,23 @@ h5.panelmoreinfo
 	color: #2577aa;
 }
 
+h2.NotInToc
+{
+	text-align: center;
+	mc-heading-level: 0;
+}
+
+h1.NotInToc
+{
+	mc-heading-level: 0;
+}
+
+td.topalign
+{
+	vertical-align: top;
+}
+
+p.web
+{
+	
+}
