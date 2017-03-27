@@ -1,1 +1,1 @@
-define({"0":{i:1,u:"../FMEmbeddedhelp/embedded-home.htm",a:"Fund Manager Embedded Help Topics",t:"Fund Manager Embedded Help Topics"},});
+define({"0":{i:1,u:"../FMEmbeddedhelp/FM-embedded-home.htm",a:"Fund Manager Embedded Help Topics",t:"Fund Manager Embedded Help Topics"},});
