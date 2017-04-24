@@ -569,42 +569,6 @@ a.glossaryTerm
 	border-bottom-color: #5bc0de;
 }
 
-.a
-{
-	background-color: transparent;
-	color: #26aae2;
-	text-decoration: none;
-}
-
-.a:link
-{
-	text-decoration: underline;
-	color: blue;
-}
-
-.a:visited
-{
-	text-decoration: underline;
-	color: purple;
-}
-
-.a:hover
-{
-	outline: 0;
-}
-
-.a:active
-{
-	outline: 0;
-}
-
-.a:focus
-{
-	color: #167ba5;
-	text-decoration: underline;
-	outline: thin dotted invert;
-}
-
 .MCWebHelpFramesetLink a
 {
 	
