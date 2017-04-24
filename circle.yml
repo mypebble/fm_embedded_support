@@ -3,11 +3,7 @@ test:
     - sh test.sh
 
 deployment:
-  sync_stage:
-    branch: master
-    commands:
-      - ./send-to-s3.sh staging-embedded-fm
   sync_production:
-    branch: release
+    branch: master
     commands:
       - ./send-to-s3.sh production-embedded-fm
