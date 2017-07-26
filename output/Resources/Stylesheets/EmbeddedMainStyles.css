@@ -247,10 +247,10 @@ MadCap|popupHead
 
 MadCap|xref
 {
-	color: #2D8DCC;
 	font-weight: bold;
 	mc-format: '{para}';
 	text-decoration: underline;
+	color: #6ca7cd;
 }
 
 MadCap|xref:hover
@@ -386,6 +386,7 @@ p.note
 {
 	mc-auto-number-class: Emphasis;
 	mc-auto-number-format: 'Note: ';
+	mc-hyphenate-shortest-word: 20;
 }
 
 p.Tip
@@ -475,6 +476,27 @@ MadCap|glossaryTerm:focus
 		max-height: auto;
 		max-width: 500px;
 	}
+
+	p
+	{
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	h1
+	{
+		mc-hyphenate-shortest-word: 20;
+	}
+
+	p.small
+	{
+		font-size: smaller;
+	}
+
+	li
+	{
+		mc-hyphenate: never;
+		mc-hyphenate-shortest-prefix: 20;
+	}
 }
 
 li.bullet
@@ -530,3 +552,30 @@ h5.panelmoreinfo
 	font-size: 0.75em;
 	color: #2577aa;
 }
+
+p.moreinformation
+{
+	
+}
+
+p.red
+{
+	
+}
+
+span.bigblue
+{
+	color: #1e90ff;
+	font-size: large;
+}
+
+p.small
+{
+	text-align: center;
+}
+
+div.footer
+{
+	text-align: center;
+}
+

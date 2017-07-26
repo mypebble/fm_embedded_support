@@ -12,7 +12,7 @@
             <h5 class="panelmoreinfo">More help is available on <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank" rel="noopener noreferrer">Pebble Support Website.</a></h5>
             <div class="line">
             </div>
-            <h5 class="panelmoreinfo"> <a href="https://docs.google.com/a/talktopebble.co.uk/forms/d/e/1FAIpQLSfKBI_Ai0F0X_Vgzl6wRn8KWROR8enAjSy0_SkJu73MoF82eQ/viewform" target="_blank" rel="noopener noreferrer">How likely are you to recommend our Fund Manager Support to other schools?</a></h5>
+            <h5 class="panelmoreinfo"> <a href="https://docs.google.com/a/talktopebble.co.uk/forms/d/e/1FAIpQLSfKBI_Ai0F0X_Vgzl6wRn8KWROR8enAjSy0_SkJu73MoF82eQ/viewform" target="_blank" rel="noopener noreferrer">How likely are you to recommend our <MadCap:variable name="Pebble.FundManager" /> Support to other schools?</a></h5>
         </div>
     </body>
 </html>

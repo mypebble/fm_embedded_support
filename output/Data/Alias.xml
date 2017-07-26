@@ -121,4 +121,6 @@
     <Map Name="joinos-permissions" Link="FMEmbeddedhelp/JoinosPermissions.htm" ResolvedId="1645" />
     <Map Name="manage-connections2" Link="FMEmbeddedhelp/ManageConnections.htm" ResolvedId="1591" />
     <Map Name="joinos-create-offer-v2beta" Link="FMEmbeddedhelp/JoinosCreateOfferV2Beta.htm" ResolvedId="1561" />
+    <Map Name="map-squid-offers" Link="FMEmbeddedhelp/MapsQuidOffers.htm" ResolvedId="1650" />
+    <Map Name="squid-pending-import" Link="FMEmbeddedhelp/SquidPendingImport.htm" ResolvedId="1655" />
 </CatapultAliasFile>
