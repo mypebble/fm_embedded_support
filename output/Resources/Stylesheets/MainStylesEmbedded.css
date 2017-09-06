@@ -497,6 +497,11 @@ MadCap|glossaryTerm:focus
 		mc-hyphenate: never;
 		mc-hyphenate-shortest-prefix: 20;
 	}
+
+	p.tabletext
+	{
+		
+	}
 }
 
 li.bullet
@@ -577,5 +582,20 @@ p.small
 div.footer
 {
 	text-align: center;
+}
+
+h2.NotInToc
+{
+	
+}
+
+p.tabletext
+{
+	
+}
+
+p.spacing
+{
+	margin-bottom: 1px;
 }
 
