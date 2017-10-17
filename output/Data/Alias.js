@@ -124,5 +124,6 @@ xmlAliasData += '    <Map Name=\"manage-connections2\" Link=\"FMEmbeddedhelp/Man
 xmlAliasData += '    <Map Name=\"joinos-create-offer-v2beta\" Link=\"FMEmbeddedhelp/JoinosCreateOfferV2Beta.htm\" ResolvedId=\"1561\" />';
 xmlAliasData += '    <Map Name=\"map-squid-offers\" Link=\"FMEmbeddedhelp/MapsQuidOffers.htm\" ResolvedId=\"1650\" />';
 xmlAliasData += '    <Map Name=\"squid-pending-import\" Link=\"FMEmbeddedhelp/SquidPendingImport.htm\" ResolvedId=\"1655\" />';
+xmlAliasData += '    <Map Name=\"squid-map-contacts\" Link=\"FMEmbeddedhelp/MapContacts.htm\" ResolvedId=\"1660\" />';
 xmlAliasData += '</CatapultAliasFile>';
 MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);

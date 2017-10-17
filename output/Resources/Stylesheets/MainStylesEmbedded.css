@@ -599,3 +599,13 @@ p.spacing
 	margin-bottom: 1px;
 }
 
+p.important
+{
+	mc-auto-number-format: '{b}{color red}Important! {/color}{/b} ';
+}
+
+MadCap|xref.printed
+{
+	mc-format: ;
+}
+
