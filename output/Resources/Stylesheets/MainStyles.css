@@ -620,7 +620,7 @@ small
 
 	MadCap|xref
 	{
-		mc-format: '{h1} on page {page}.';
+		mc-format: '{h1} on page {page}';
 	}
 
 	div.GlossaryPageTerm
@@ -643,6 +643,14 @@ small
 	MadCap|xref.textinchapter
 	{
 		mc-format: '{h1} on page {page}';
+	}
+
+	h4.RelatedTopicHeading
+	{
+		margin-bottom: 1rem;
+		font-weight: bold;
+		font-style: normal;
+		margin-top: 0;
 	}
 }
 
@@ -760,12 +768,12 @@ p.pagebreakafter
 
 MadCap|xref.textinchapter
 {
-	mc-format: '{h1} on page {page}';
+	mc-format: '{para}';
 }
 
 MadCap|xref.textinsidechapter
 {
-	mc-format: '{paraxml} on page {page}';
+	mc-format: '{para}';
 }
 
 p.red
