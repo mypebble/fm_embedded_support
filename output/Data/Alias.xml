@@ -124,4 +124,5 @@
     <Map Name="map-squid-offers" Link="FMEmbeddedhelp/MapsQuidOffers.htm" ResolvedId="1650" />
     <Map Name="squid-pending-import" Link="FMEmbeddedhelp/SquidPendingImport.htm" ResolvedId="1655" />
     <Map Name="squid-map-contacts" Link="FMEmbeddedhelp/MapContacts.htm" ResolvedId="1660" />
+    <Map Name="pupil-gift-aid" Link="FMEmbeddedhelp/PupilGiftAid.htm" ResolvedId="1665" />
 </CatapultAliasFile>
