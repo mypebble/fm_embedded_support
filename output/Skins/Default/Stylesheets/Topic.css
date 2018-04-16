@@ -570,6 +570,53 @@ a.glossaryTerm
 	padding: 5px;
 }
 
+.glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
+.dropDownHotspot
+{
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	text-decoration: none;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownOpen.gif');
+	padding-left: 1px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownClosed.gif');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
