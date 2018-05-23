@@ -246,6 +246,16 @@ ul.menu li > a
     padding: 0px;
 }
 
+.phrase-suggest
+{
+    display: block;
+}
+
+.search-result-highlight 
+{
+    font-weight: bold;
+}
+
 .activityInfo
 {
     color: #666;
