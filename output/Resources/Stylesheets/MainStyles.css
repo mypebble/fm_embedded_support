@@ -422,6 +422,13 @@ h5.panelmoreinfo
 	margin: 0.25em 0;
 }
 
+h4.paneltitle
+{
+	color: #2577aa;
+	padding-bottom: 10px;
+	margin-top: 0;
+}
+
 hr
 {
 	margin-bottom: 1px;
