@@ -1,19 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="163" MadCap:lastWidth="1153">
-    <head>
-        <link href="../Stylesheets/flare-website.css" rel="stylesheet" type="text/css" />
-        <link href="../Stylesheets/MainStylesEmbedded.css" rel="stylesheet" type="text/css" />
-        <link href="../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>&#160;<link href="" rel="stylesheet" type="text/css" /></head>
     <body>
         <MadCap:bodyProxy />
-        <div class="wrapper-footer">
-            <div class="line">
-            </div>
-            <h5 class="panelmoreinfo">More help is available on <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank" rel="noopener noreferrer">Pebble Support Website.</a></h5>
-            <div class="line">
-            </div>
-            <h5 class="panelmoreinfo"> <a href="https://docs.google.com/a/talktopebble.co.uk/forms/d/e/1FAIpQLSfKBI_Ai0F0X_Vgzl6wRn8KWROR8enAjSy0_SkJu73MoF82eQ/viewform" target="_blank" rel="noopener noreferrer">How likely are you to recommend our <MadCap:variable name="Pebble.FundManager" /> Support to other schools?</a></h5>
-        </div>
+        <hr />
+        <h5 class="panelmoreinfo">More help is available on <a href="https://www.mypebble.co.uk/supportdocs/Content/support/home.htm" target="_blank" rel="noopener noreferrer">Pebble Support Website.</a></h5>
+        <hr />
+        <h5 class="panelmoreinfo"> <a href="https://docs.google.com/a/talktopebble.co.uk/forms/d/e/1FAIpQLSfKBI_Ai0F0X_Vgzl6wRn8KWROR8enAjSy0_SkJu73MoF82eQ/viewform" target="_blank" rel="noopener noreferrer">How likely are you to recommend our <MadCap:variable name="Pebble.FundManager" /> Support to other schools?</a></h5>
     </body>
 </html>
