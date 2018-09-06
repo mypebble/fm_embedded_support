@@ -54,8 +54,6 @@ xmlAliasData += '    <Map Name=\"taken-items\" Link=\"FMEmbeddedhelp/TakenItems.
 xmlAliasData += '    <Map Name=\"universal-free-school-meals\" Link=\"FMEmbeddedhelp/UniversalFreeSchoolMeals.htm\" ResolvedId=\"1270\" />';
 xmlAliasData += '    <Map Name=\"register-account-summary\" Link=\"FMEmbeddedhelp/RegisterAccountSummary.htm\" ResolvedId=\"1272\" />';
 xmlAliasData += '    <Map Name=\"upload-register-file\" Link=\"FMEmbeddedhelp/UploadRegisterFile.htm\" ResolvedId=\"1275\" />';
-xmlAliasData += '    <Map Name=\"send-text-message\" Link=\"FMEmbeddedhelp/SendTextMessage.htm\" ResolvedId=\"1280\" />';
-xmlAliasData += '    <Map Name=\"history-and-billing\" Link=\"FMEmbeddedhelp/HistoryAndBilling.htm\" ResolvedId=\"1285\" />';
 xmlAliasData += '    <Map Name=\"view-offers\" Link=\"FMEmbeddedhelp/ViewOffers.htm\" ResolvedId=\"1290\" />';
 xmlAliasData += '    <Map Name=\"push-new-offer\" Link=\"FMEmbeddedhelp/PushNewOffer.htm\" ResolvedId=\"1295\" />';
 xmlAliasData += '    <Map Name=\"import-squid-sales\" Link=\"FMEmbeddedhelp/ImportsQuidSales.htm\" ResolvedId=\"1300\" />';
@@ -99,7 +97,6 @@ xmlAliasData += '    <Map Name=\"pending-offers\" Link=\"FMEmbeddedhelp/JoinosPe
 xmlAliasData += '    <Map Name=\"unmapped-parentpay-transactions\" Link=\"FMEmbeddedhelp/UnmappedParentPayTransactions.htm\" ResolvedId=\"1490\" />';
 xmlAliasData += '    <Map Name=\"documents\" Link=\"FMEmbeddedhelp/Documents.htm\" ResolvedId=\"1520\" />';
 xmlAliasData += '    <Map Name=\"manage-user-access-permissions\" Link=\"FMEmbeddedhelp/ManageUserAccessPermissions.htm\" ResolvedId=\"1525\" />';
-xmlAliasData += '    <Map Name=\"billing\" Link=\"FMEmbeddedhelp/Billing.htm\" ResolvedId=\"1530\" />';
 xmlAliasData += '    <Map Name=\"bank-and-cash-summary\" Link=\"FMEmbeddedhelp/BankAndCashSummary.htm\" ResolvedId=\"1540\" />';
 xmlAliasData += '    <Map Name=\"register-account-summary-top\" Link=\"FMEmbeddedhelp/RegisterAccountSummaryTop.htm\" ResolvedId=\"1545\" />';
 xmlAliasData += '    <Map Name=\"compose-joinos-message\" Link=\"FMEmbeddedhelp/ComposeJoinosMessage.htm\" ResolvedId=\"1550\" />';

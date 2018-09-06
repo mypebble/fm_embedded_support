@@ -53,8 +53,6 @@
     <Map Name="universal-free-school-meals" Link="FMEmbeddedhelp/UniversalFreeSchoolMeals.htm" ResolvedId="1270" />
     <Map Name="register-account-summary" Link="FMEmbeddedhelp/RegisterAccountSummary.htm" ResolvedId="1272" />
     <Map Name="upload-register-file" Link="FMEmbeddedhelp/UploadRegisterFile.htm" ResolvedId="1275" />
-    <Map Name="send-text-message" Link="FMEmbeddedhelp/SendTextMessage.htm" ResolvedId="1280" />
-    <Map Name="history-and-billing" Link="FMEmbeddedhelp/HistoryAndBilling.htm" ResolvedId="1285" />
     <Map Name="view-offers" Link="FMEmbeddedhelp/ViewOffers.htm" ResolvedId="1290" />
     <Map Name="push-new-offer" Link="FMEmbeddedhelp/PushNewOffer.htm" ResolvedId="1295" />
     <Map Name="import-squid-sales" Link="FMEmbeddedhelp/ImportsQuidSales.htm" ResolvedId="1300" />
@@ -98,7 +96,6 @@
     <Map Name="unmapped-parentpay-transactions" Link="FMEmbeddedhelp/UnmappedParentPayTransactions.htm" ResolvedId="1490" />
     <Map Name="documents" Link="FMEmbeddedhelp/Documents.htm" ResolvedId="1520" />
     <Map Name="manage-user-access-permissions" Link="FMEmbeddedhelp/ManageUserAccessPermissions.htm" ResolvedId="1525" />
-    <Map Name="billing" Link="FMEmbeddedhelp/Billing.htm" ResolvedId="1530" />
     <Map Name="bank-and-cash-summary" Link="FMEmbeddedhelp/BankAndCashSummary.htm" ResolvedId="1540" />
     <Map Name="register-account-summary-top" Link="FMEmbeddedhelp/RegisterAccountSummaryTop.htm" ResolvedId="1545" />
     <Map Name="compose-joinos-message" Link="FMEmbeddedhelp/ComposeJoinosMessage.htm" ResolvedId="1550" />
