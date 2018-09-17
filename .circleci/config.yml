@@ -1,0 +1,16 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: mypebble.dkr.ecr.us-east-1.amazonaws.com/org/repo:0.1
+        aws_auth:
+          aws_access_key_id: $NEW_AWS_ID
+          aws_secret_access_key: $NEW_AWS_SECRET
+    steps:
+      - checkout
+      - run:
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              ./send-to-s3.sh
+            else
+              echo "Not the main branch so won't be sent."
